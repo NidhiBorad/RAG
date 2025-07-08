@@ -1,0 +1,8 @@
+numpy
+langchain
+langchain-community 
+langchainhub 
+faiss-cpu 
+openai 
+pymupdf
+
